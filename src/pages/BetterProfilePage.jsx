@@ -23,6 +23,7 @@ export default function ProfilePage() {
   return (
     <>
       <Container>
+        <div>ProfilePage From MJ</div>
         <Row>
           <ProfileSideBar handleLogout={handleLogout} />
           <ProfileMidBody />
